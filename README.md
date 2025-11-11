@@ -26,7 +26,7 @@ cd weather-viewer
 1. Zaregistruj se zdarma na: https://openweathermap.org/
 2. Vytvoř si API klíč
 3. V app.js nahraď:
-````javascript
+```javascript
 const API_KEY = "TVŮJ_API_KEY";
 ```
 
